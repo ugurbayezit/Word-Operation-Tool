@@ -1,5 +1,5 @@
 # Word-Operation-Tool
-
+**Warning: Only .txt extension is accepted.**
 With the Word Operation Tool Program; By determining a word from the text in a file selected by the users, certain commands (F, D, R) are used to find this word in the text, replace it with another word and delete it. While the selected word can be found alone in the text, it is also possible to find other words in the word by using the symbols '' - '' and '*'. When the “- ”symbol is used, the software replaces all the letters of the alphabet in the position where” – “ is located, while showing all the words that can occur; When the symbol “* “ is used, words with zero or more letters are shown depending on the position of the “ * “. For example: Assuming that the word “alı” is selected, the program can find the word “balık” when the F -alı-, F *alı* can find the Word “salıncak” when the given command. This rule also applies to the Delete and Replace commands.
 
 It was developed with the aim of facilitating the process process, preventing loss of effort and saving time. **Prepared in C ++**
